@@ -2,7 +2,7 @@
   "name": "webpack-typescript-starter",
   "version": "1.0.0",
   "description": "This is a Webpack + TypeScript starter project.",
-  "main": "./src/app.js",
+  "main": "src/app.js",
   "scripts": {
     "dev": "webpack-dev-server --mode=development",
     "build": "webpack --mode=production",
